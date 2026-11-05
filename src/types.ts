@@ -23,3 +23,5 @@ export interface AppConfig {
   name: string;
   version: string;
 }
+
+export type TaskFilter = TaskStatus | "Semua";
