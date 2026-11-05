@@ -1,4 +1,5 @@
 import "./style.css";
+import { initDocumentation } from "./documentation";
 
 import { APP_CONFIG } from "./config";
 import {
@@ -531,3 +532,4 @@ function setupEvents(): void {
 }
 
 renderLayout();
+initDocumentation();
