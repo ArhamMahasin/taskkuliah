@@ -1,4 +1,4 @@
-# TaskKuliah
+# TaskKuliah - Aplikasi Manajemen Tugas Mahasiswa
 
 TaskKuliah adalah aplikasi web sederhana untuk membantu mahasiswa mengelola tugas kuliah.
 
